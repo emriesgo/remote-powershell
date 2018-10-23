@@ -1,2 +1,2 @@
 # remote-powershell
-Comunicación remota con otro ordenador de la red.
+Comunicación remota con otro ordenador de la red con PowerShell.
